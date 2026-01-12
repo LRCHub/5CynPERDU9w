@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "Trigger",
-  "base_artist": "Yuuki Ozaki",
-  "createdAt": "2025-12-14T09:28:10.687258Z",
+  "base_artist": "Yuuki Ozaki(from Galileo Galilei)",
+  "createdAt": "2026-01-12T11:53:06.394908Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -128,9 +128,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "Trigger",
-      "artist": "Yuuki Ozaki",
+      "artist": "Yuuki Ozaki (from Galileo Galilei)",
       "has_synced": false,
-      "path": "select/pl_01_Trigger_Yuuki_Ozaki.txt"
+      "path": "select/pl_01_Trigger_Yuuki_Ozaki_(from_Galileo_Galilei).txt"
     }
   ]
 }
